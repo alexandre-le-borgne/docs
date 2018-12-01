@@ -1,7 +1,7 @@
 # PHP
 
-## OAuth
+
 
 ### JWT
 
-Debugger : https://jwt.io/
+- JSON Object Signing and Encryption Framework : https://github.com/Spomky-Labs/jose
