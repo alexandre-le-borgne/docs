@@ -9,3 +9,4 @@
 ### JWT
 
 - JSON Object Signing and Encryption Framework : https://github.com/Spomky-Labs/jose
+- PHP JWT Framework : https://github.com/web-token/jwt-framework
